@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<strings>
+    <!-- application values -->
+    <string name="application-title">TimeField</string>
+    <string name="application-version">1.0.0</string>
+    <!-- prompts -->
+    <string name="command-prompt">Please enter a command or h for help.</string>
+    <string name="new-task-prompt">Please enter the following information about your task, or press Enter to accept the default value.</string>
+    <string name="title-prompt">Title</string>
+    <string name="notes-prompt">Notes</string>
+    <string name="interval-prompt">Interval</string>
+    <string name="duration-prompt">Duration</string>
+    <!-- errors -->
+    <string name="invalid-command-error">Invalid command.</string>
+    <string name="invalid-task-error">Invalid task.</string>
+    <string name="invalid-interval-error">Invalid interval.</string>    
+    <string name="invalid-input-error">Invalid input.</string>
+    <string name="file-read-error">Failed to read file.</string>
+    <!-- interval strings -->
+    <string name="today">today</string>    
+    <string name="prev">prev</string>
+    <string name="this">this</string>  
+    <string name="next">next</string>    
+    <string name="day">day</string>   
+    <string name="week">week</string>
+</strings>

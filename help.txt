@@ -1,0 +1,15 @@
+TimeField Help
+Valid commands:
+  l        List all tasks in the working interval.
+  c ([start_date] [start_time] [- [end_date] [end_time]])|(prev|this|next day|week)
+           Change the working interval to the given interval. start_date and
+           end_date should be in the format MM/DD[/YYYY], and start_time and
+           end_time should be in the format HH:mm.
+  n        Create a new task.
+  e [task] Edit the task with the given number.
+  d [task] Delete the task with the given number.
+  p [task] Print the task with the given number.
+  s [task] Spawn a new task as a child of the task with the given number.
+  g        Generate and display a schedule for the working interval.
+  h        Display this help file.
+  q        Quit.
